@@ -1,4 +1,4 @@
-# chrome-mp4-player-with-subtitles
+# chrome-mp4-mkv-player-with-subtitles
  
 Adding Subtitle capabilities to Chrome Video Player for MP4 videos.
 
@@ -9,7 +9,7 @@ Adding Subtitle capabilities to Chrome Video Player for MP4 videos.
 - Choose both MP4 and SRT files;
 - Enjoy!
 
-or you can test it [here](https://diogoduailibe.github.io/chrome-mp4-player-with-subtitles/)
+or you can test it [here](https://denyfh.github.io/videoplayer.github.io/)
 
 
 
